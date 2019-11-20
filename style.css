@@ -2,6 +2,10 @@
 body{
   background-color: #fff;
 }
+h2{
+  font-family: 'Lexend Deca', sans-serif;
+  text-align: center;
+}
 #container{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
