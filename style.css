@@ -62,9 +62,6 @@ h1{
   background: #222;
   color: #fff;
 }
-.dark h1{
-  color: #fff;
-}
 .darkContainer >*{
   color: #eee !important;
   background: #222 !important;
