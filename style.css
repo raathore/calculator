@@ -3,6 +3,8 @@ body{
   background-color: #fff;
 }
 h1{
+  margin-bottom: 50px;
+  color: #222;
   font-family: 'Lexend Deca', sans-serif;
   text-align: center;
 }
